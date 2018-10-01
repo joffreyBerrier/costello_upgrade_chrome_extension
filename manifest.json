@@ -19,7 +19,7 @@
   "manifest_version": 2,
   "name": "Upgrade Costello",
   "short_name": "Upgrade Costello",
-  "version": "1.12",
+  "version": "1.20",
   "description": "Upgrade your costello power-up Trello",
   "icons": {
     "128": "dist/img/logo-128.png",
